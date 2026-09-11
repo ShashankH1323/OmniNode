@@ -1,4 +1,4 @@
-# Distributed-SQLite
+# OmniNode: Decentralized Edge-Database Architecture
 
 This project is an advanced run-time loadable extension for SQLite that adds multi-master replication and partition tolerance. I developed this to explore Conflict-Free Replicated Data Types (CRDTs) and their application to relational databases.
 
